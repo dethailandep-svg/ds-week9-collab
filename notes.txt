@@ -1,1 +1,2 @@
 ﻿Log 1: Initialized local project workspace.
+Log 2: Added featurescaling step before training.
